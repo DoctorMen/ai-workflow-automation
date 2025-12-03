@@ -133,12 +133,12 @@ python3 scripts/vibe_command.py --command "analyze system performance"
 
 ## 🎮 Interactive Demo
 
-[![Demo GIF](https://img.shields.io/badge/Watch%20Demo-Online-blue.svg)](https://your-demo-link.com)
-
 **Experience the platform:**
-1. Describe your business process in plain English
-2. Watch AI agents decompose and optimize the workflow
-3. Review real-time execution and results
+1. Clone and run: `python demo.py --quick`
+2. Watch AI agents process business scenarios in real-time
+3. Review automated workflow generation and execution
+
+[![Run Demo Locally](https://img.shields.io/badge/Run%20Demo-Local-green.svg)](https://github.com/yourusername/ai-workflow-automation#quick-start)
 
 ## 📊 Business Impact
 
