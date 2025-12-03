@@ -187,9 +187,11 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
+- **Project Lead**: Khallid Hakeem Nurse 
+- **Email**: Nursekhallid@gmail.com
+- **LinkedIn**: www.linkedin.com/in/
+khallid-nurse-b1233439b
+
 
 ---
 
