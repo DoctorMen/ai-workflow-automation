@@ -320,7 +320,6 @@ This demo showcases:
     )
     
     args = parser.parse_args()
-    
     try:
         demo = WorkflowDemo(quick_mode=args.quick)
         demo.run()
