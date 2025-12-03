@@ -1,0 +1,20 @@
+# AI Workflow Automation Platform - Dependencies
+
+# Core Python dependencies (no external packages required for demo)
+# The demo.py script uses only Python standard library modules:
+# - argparse (CLI argument parsing)
+# - sys (system operations)
+# - time (timing and delays)
+# - typing (type hints)
+
+# For production deployment, you would add:
+# openai>=1.0.0          # OpenAI GPT integration
+# anthropic>=0.7.0       # Anthropic Claude integration
+# psycopg2-binary>=2.9.0 # PostgreSQL database
+# redis>=5.0.0           # Redis caching
+# pydantic>=2.0.0        # Data validation
+# fastapi>=0.104.0       # API framework
+# uvicorn>=0.24.0        # ASGI server
+# Note: asyncio is part of Python 3.7+ standard library, no separate installation needed
+
+# Note: The demo script is self-contained and requires Python 3.8+ only
