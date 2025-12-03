@@ -7,8 +7,7 @@ Demonstrates the multi-agent orchestration system in action.
 import argparse
 import sys
 import time
-from typing import List, Dict
-import random
+from typing import Dict
 
 
 class Colors:
